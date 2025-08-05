@@ -21,9 +21,11 @@ My research interests include:
 
 ### Skills
 
-- **Programming Languages:** Python, C
-- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **AI/ML & Data Science:** scikit-learn, matplotlib, PyTorch, TensorFlow, pandas, numpy, seaborn
-- **UI/UX Design:** Figma
+- **Programming Languages:** Python, C/C++, Assembly
+- **Database:** MongoDB, MySQL
+- **Python Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Frameworks:** Tensorflow, Pytorch, MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Office Skill:** Sheets, Word, PowerPoint
 - **Version Control:** Git, GitHub
+- **UI/UX Design:** Figma
 

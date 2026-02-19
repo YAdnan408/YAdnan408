@@ -3,7 +3,7 @@
 I am an Computer Science and Engineering graduate at BRAC University, Bangladesh, with a strong passion for artificial intelligence—including machine learning, deep learning, computer vision and data science as well as web development. I excel at the intersection of software and hardware, where I engineer data-driven solutions that create tangible impact in the real world. Currently, I’m advancing my proficiency in the MERN stack while rigorously expanding my expertise in data science tools, frameworks, and methodologies. I actively seek out cutting-edge technologies and high-stakes challenges that push the boundaries of innovation and deliver measurable value.
 
 - 🔭 I’m currently working on a web development project using the MERN framework as well as a deep learning project where I'll be training neural network models.
-- 👯 I’m looking to collaborate on AI-driven projects, web developmentand designing interactive user interfaces
+- 👯 I’m looking to collaborate on AI-driven projects, web development and designing interactive user interfaces
 - 🤔 I’m looking for help with FinTech
 - 📫 How to reach me: yamin.adnan408@gmail.com / yamin.adnan@g.bracu.ac.bd / https://www.linkedin.com/in/yamin-adnan-b23799266/
 - ⚡ Fun fact: I'm about to write a song for my band. Which language should I write it in? Python, Java, C or C++? 🤔
@@ -21,11 +21,12 @@ My research interests include:
 
 ### Skills
 
-- **Programming Languages:** Python, C/C++, Assembly
+- **Programming Languages:** Python, C/C++, SQL, Assembly
 - **Database:** MongoDB, MySQL
 - **Python Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- **Frameworks:** Tensorflow, Pytorch, MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- **Frameworks:** Tensorflow, Pytorch, MERN Stack
+- **Design Tools:** Figma, Cisco Packet Tracer
+- **Analytical Tools:** Google Analytics 4, Power BI
 - **Office Skill:** Sheets, Word, PowerPoint
 - **Version Control:** Git, GitHub
-- **UI/UX Design:** Figma
 
